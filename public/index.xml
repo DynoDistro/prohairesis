@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://example.org/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Oct 2023 21:38:15 +0800</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Decide</title>
+      <link>https://example.org/posts/decide/</link>
+      <pubDate>Tue, 17 Oct 2023 21:38:15 +0800</pubDate>
+      
+      <guid>https://example.org/posts/decide/</guid>
+      <description>Markdown Template This is a template demonstrating various Markdown syntax elements.
+Headings Heading 3 Heading 4 Heading 5 Heading 6 Emphasis italic or italic bold or bold italic and bold or italic and bold
+Lists Unordered List:
+Item 1 Item 2 Subitem A Subitem B Item 3 Ordered List:
+First Item Second Item Third Item Links Visit OpenAI Visit Google
+Images Blockquotes This is a blockquote.
+Anonymous Code Inline code can be added within text.</description>
+    </item>
+    
+  </channel>
+</rss>
