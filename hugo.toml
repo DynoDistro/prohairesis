@@ -1,4 +1,4 @@
-baseURL = 'https://dynodistro.github.io/prohairesis/'
+baseURL = 'https://dynodistro.github.io/'
 languageCode = 'en-us'
 title = 'Prohairesis'
 theme = "PaperMod"
