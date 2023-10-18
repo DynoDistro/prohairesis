@@ -2,8 +2,9 @@ baseURL = "https://prohairesis.xyz"
 languageCode = "en-us"
 title = "Prohairesis"
 theme = "PaperMod"
-ShowBreadCrumbs = true
-ShowPostNavLinks = true
+ShowToc = true
+
+
 
 [params.homeInfoParams]
 Title = "The inner citadel"

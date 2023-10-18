@@ -1,7 +1,7 @@
 +++
 title = 'How to walk'
 date = 2023-10-18T21:41:53+08:00
-draft = true
+draft = false
 +++
 
 # Understanding Prohairesis in Stoicism 🧘‍♂️
