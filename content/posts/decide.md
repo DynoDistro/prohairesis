@@ -4,7 +4,7 @@ date = 2023-10-17T21:38:15+08:00
 draft = false
 +++
 
-Stoicism, with its roots in ancient Greece, offers a profound philosophy for modern life. One of its central principles, **Prosoche**, is a concept that can greatly enhance our daily existence. 🧘‍♂️ Let's explore the idea of Prosoche in Stoicism and how it can be applied to our contemporary world.
+TEST Stoicism, with its roots in ancient Greece, offers a profound philosophy for modern life. One of its central principles, **Prosoche**, is a concept that can greatly enhance our daily existence. 🧘‍♂️ Let's explore the idea of Prosoche in Stoicism and how it can be applied to our contemporary world.
 
 ## Table of Contents
 1. [Understanding Prosoche](#understanding-prosoche)
