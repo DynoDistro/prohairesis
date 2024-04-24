@@ -55,3 +55,19 @@ Paragraph :+1:
 | --- | --- |
 | Baz | Qux |
 
+The Lorenz Attractor
+
+$dxdt=σ(y−x)$
+dtdx​=σ(y−x)
+
+dydt=x(1−z)−y
+dtdy​=x(1−z)−y
+
+dzdt=xy−bz
+dtdz​=xy−bz
+
+This set of equations, known as the Lorenz attractor, is a classic example of a chaotic system. The Lorenz attractor is a set of chaotic solutions to the Navier-Stokes equations that describe the motion of fluids.
+The Mandelbrot Set
+
+zn+1=zn!+c
+zn+1​=zn!​+c
