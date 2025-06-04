@@ -6,11 +6,14 @@ toc: true
 readTime: true
 autonumber: true
 math: true
+description: "A Stoic reflection on why prohairesis matters more than circumstances."
 ---
 
 ### Header Support
 
 Single line paragraph
+
+
 
 > Hello, Quote!
 
