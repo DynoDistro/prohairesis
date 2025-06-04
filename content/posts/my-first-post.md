@@ -1,39 +1,39 @@
 ---
-title: "Prohairesis > Circumstance: A Markdown Torture-Test"
+title: "Prohairesis > Circumstance: A Markdown Torture‑Test"
 date: "2025-06-04"
 summary: "Everything a Stoic—and your Markdown parser—can handle in one post."
 toc: true
 readTime: true
 autonumber: true
 math: true
-description: "A maximal-feature demonstration that reminds us why our judgments, not events, decide our happiness."
+description: "A maximal‑feature demonstration that reminds us why our judgments, not events, decide our happiness."
 ---
 
 > *“It’s not things that disturb us, but our judgments about things.”*  
-> — **Epictetus**, *Enchiridion* `§5`
+> — **Epictetus**, *Enchiridion* §5
 
 ---
 
-# 1 · Premise `<h1>`
+# 1 · Premise
 
-## 1.1 · Why test Markdown? `<h2>`
+## 1.1 · Why test Markdown?
 
-Stoicism trains us to **stress-test** our own assumptions.  
-Likewise, this post stress-tests your *markdown renderer*—from ~~strikethrough~~ to `inline code`.
+Stoicism trains us to **stress‑test** our own assumptions.  
+Likewise, this post stress‑tests your *markdown renderer*—from ~~strikethrough~~ to `inline code`.
 
-### 1.1.1 · Quick links `<h3>`
+### 1.1.1 · Quick links
 
 - [Virtue ≠ Outcome](#virtue--outcome)
 - [Mathematical Aside](#mathematical-aside)
-- [Appendices](#appendices)  
+- [Appendices](#appendices)
 
-#### 1.1.1.1 · Footnote index `<h4>`
+#### 1.1.1.1 · Footnote index
 
 Numbers like [^1] jump to citations.
 
-##### 1.1.1.1.α · Sub-sub heading `<h5>`
+##### 1.1.1.1.α · Sub‑sub heading
 
-###### 1.1.1.1.α.i · And one more `<h6>`
+###### 1.1.1.1.α.i · And one more
 
 ---
 
@@ -41,19 +41,19 @@ Numbers like [^1] jump to citations.
 
 1. **Perception**  
    1. We *see* an event.  
-   2. We *judge* it—> passion arises.
+   2. We *judge* it → passion arises.
 2. **Choice** (προαίρεσις)  
    - Accept? ⬅️  
    - Reject? ➡️
 3. **Action** → `External result` *(indifferent)*
 
-| Facet           | Within control? | Stoic verdict |
-|-----------------|-----------------|---------------|
-| **Judgment**    | ✅ Yes          | Cultivate     |
-| **Body**        | ❌ No           | Accept        |
-| **Reputation**  | ❌ No           | Ignore        |
+| Facet        | Within control? | Stoic verdict |
+|--------------|-----------------|---------------|
+| **Judgment** | ✅ Yes          | Cultivate     |
+| **Body**     | ❌ No           | Accept        |
+| **Reputation** | ❌ No         | Ignore        |
 
-> 📝 **Key take-away:** *Train the judgment*, ignore noise.
+> 📝 **Key take‑away:** *Train the judgment*, ignore noise.
 
 ---
 
@@ -69,11 +69,12 @@ $$
 
 ---
 
-## 4 · Multi-flavored code blocks
+## 4 · Multi‑flavored code blocks
 
 ```bash
 # Stoic morning routine
-echo "Read Meditations"; echo "Premeditatio malorum"  # visualise obstacles
+echo "Read Meditations"
+echo "Premeditatio malorum"  # visualise obstacles
 ```
 
 ```python
@@ -100,7 +101,7 @@ graph LR
 
 - **Daily practices**
   - [x] Morning reflection
-  - [ ] Mid-day check-in
+  - [ ] Mid‑day check‑in
   - [ ] Evening review
 - ~~Complain about weather~~
 - Remember: `amor fati`
@@ -119,9 +120,9 @@ Break line with backslash → still same paragraph. :+1:
 ## 7 · Details / Summary
 
 <details>
-<summary>Click for a mini-rant on external validation 🙃</summary>
+<summary>Click for a mini‑rant on external validation 🙃</summary>
 
-Because **other people’s praise** is outside our control, basing self-worth on it guarantees misery. Epictetus compares that to *hanging your happiness on a dove’s foot*—sooner or later it flies off.
+Because **other people’s praise** is outside our control, basing self‑worth on it guarantees misery. Epictetus compares that to *hanging your happiness on a dove’s foot*—sooner or later it flies off.
 
 </details>
 
@@ -129,11 +130,11 @@ Because **other people’s praise** is outside our control, basing self-worth on
 
 ## 8 · Table of Greek terms
 
-| Greek | Latin | Meaning |
-|-------|-------|---------|
-| προαίρεσις | *prohairesis* | Rational faculty of choice |
-| πάθος      | *passio*     | Disordered impulse |
-| ἀπάθεια    | *apatheia*   | Healthy freedom from passion |
+| Greek       | Latin          | Meaning                       |
+|-------------|---------------|-------------------------------|
+| προαίρεσις  | *prohairesis*  | Rational faculty of choice    |
+| πάθος       | *passio*       | Disordered impulse            |
+| ἀπάθεια     | *apatheia*     | Healthy freedom from passion  |
 
 ---
 
@@ -163,15 +164,15 @@ Chaotic, but still **deterministic**—just like life’s externals.
 
 ### A. Checklist to stay serene
 
-| # | Trigger | Stoic counter-move |
-| :-: | --- | --- |
-| 1 | Manager frowns | *Only her judgment; irrelevant to mine.* |
-| 2 | Bad traffic | *Not up to me; use time to rehearse maxims.* |
-| 3 | Inbox flood | *Tackle one email; focus on present action.* |
+| # | Trigger          | Stoic counter‑move                                     |
+|:-:|------------------|--------------------------------------------------------|
+| 1 | Manager frowns   | *Only her judgment; irrelevant to mine.*               |
+| 2 | Bad traffic      | *Not up to me; use time to rehearse maxims.*           |
+| 3 | Inbox flood      | *Tackle one email; focus on present action.*           |
 
 ### B. Footnotes
 
-[^1]: *Discourses* 1.1 reminds us that prohairesis is the only thing truly “ours.”
+[^1]: *Discourses* 1.1 reminds us that prohairesis is the only thing truly “ours.”
 
 ---
 
