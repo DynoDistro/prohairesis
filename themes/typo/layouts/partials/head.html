@@ -11,3 +11,7 @@
 {{ if hugo.IsProduction }}
 {{ template "_internal/google_analytics.html" . }}
 {{ end }}
+
+{{ with .Description }}
+  <meta name="description" content="{{ . }}">
+{{ end }}
