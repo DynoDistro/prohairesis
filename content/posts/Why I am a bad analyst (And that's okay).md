@@ -1,4 +1,13 @@
-# Why I am a bad analyst (And that's okay)
+---
+title: "Why I am a bad analyst (And that's okay)"
+date: 2026-01-04T10:00:00+08:00
+draft: false
+description: "A reflection on why you should go out and Just do it™."
+tags: ["Stoicism", "Career", "Philosophy"]
+toc: true
+readTime: true
+math: true
+---
 
 Reading a book on how to do something is not always as productive as we think it is. I think that sometimes reading books on how to do something, or how to achieve a goal, is often a direct hindrance to actually doing the thing you are reading about.
 
