@@ -4,7 +4,7 @@ date: 2026-01-04T10:00:00+08:00
 draft: false
 description: "A reflection on why you should go out and Just do it™."
 tags: ["Stoicism", "Career", "Philosophy"]
-toc: true
+toc: false
 readTime: true
 math: true
 ---
