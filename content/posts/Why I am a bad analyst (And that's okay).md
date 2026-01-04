@@ -17,7 +17,9 @@ I had a strange mentality where I thought I actually knew what was happening in 
 
 Obviously, I wanted to impress! I was whipping out spreadsheets and generating estimated future returns based on news articles and reports of metal price fluctuations. I thought I was an analyst. The managers were polite and told me they read all my email reports (sometimes). I thought I was doing my job, but nope—my job was to process orders and just manage the backend of the sale process.
 
-Long story short, we received an email from their CFO with an audio recording of him screaming *"Me declaro en bancarrota!!"*
+Long story short, I received an email from one of our clients in Spain. It was their CFO with an attached audio recording of him screaming *"Me declaro en bancarrota!!"*
+
+Oh no... I realised that they are not going to pay us once the OA 30 days deadline hits.
 
 The resolution of this half-a-million USD potential loss was entrusted to me. I was very scared... but I thought that this was my time to shine! I got to work mapping out probable returns and the current risk value of this entire case, calculating the insurance we can claim and future prices of the goods bringing down the market price if they were sold at deep discounts. It was just like the textbooks in business school! Finally, I can prove that I'm smart and that I really know what I am doing![^2]
 
